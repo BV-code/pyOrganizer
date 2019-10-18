@@ -1,4 +1,4 @@
-pyOrganizer
+# pyOrganizer
 
 
 
@@ -6,7 +6,7 @@ pyOrganizer
  and copies them to a new destination, then sending the original file to the trash
 
 ### Prerequisites
-** Send2trash **: `pip install send2trash`
+**Send2trash**: `pip install send2trash`
 
 
 usage example - pythonOrganizer.py .pdf destination/directory/
