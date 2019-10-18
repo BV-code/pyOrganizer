@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
-# a program that searches for a single file exntesion and copies all those files to
-# a new destination
+# a program that searches for a single file extension in the cwd and every sub-directory
+# and copies them to a new destination
 # usage example - pythonOrganizer.py .pdf destination/directory/
 
 
