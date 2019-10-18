@@ -8,6 +8,6 @@
 ### Prerequisites
 **Send2trash**: `pip install send2trash`
 
-
-usage example - pythonOrganizer.py .pdf destination/directory/
+### Usage
+example - `pythonOrganizer.py .pdf destination/directory/`
 
